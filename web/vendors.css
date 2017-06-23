@@ -1,0 +1,82 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : May 28, 2017, 12:08:03 PM
+    Author     : MMM
+*/
+
+body {
+    
+    background-image: url("1.gif");
+    font-family: "Arial";
+    font-size: 12px;
+    color: #296d7d;
+}
+.tablewithborder {
+    font-size: 12px;
+    border-style: double;
+    border-color: #296d7d;
+}
+
+.button2 {
+    background-color: white; 
+    border: #296d7d;
+    border-style: solid;
+    color: #296d7d;
+    padding: 8px 8px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 12px;
+    width: 150px;
+    border-radius: 5px 10px;
+}
+.button2:hover {
+    background-color: #296d7d; 
+    border: white;
+    border-style: solid;
+    color: white;
+    padding: 8px 8px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 12px;
+    width: 152px;
+    border-radius: 5px 10px;
+}
+.tdc{
+    align-content: center;
+    vertical-align: middle;
+}
+
+.topics tr2 { line-height: 14px; }
+
+.button3 {
+    background-color: white; 
+    border: #296d7d;
+    border-style: solid;
+    color: #296d7d;
+    padding: 8px 8px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 10px;
+    width: 110px;
+    border-radius: 4px 8px;
+}
+.button3:hover {
+    background-color: #296d7d; 
+    border: white;
+    border-style: solid;
+    color: white;
+    padding: 8px 8px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 11px;
+    width: 112px;
+    border-radius: 4px 8px;
+}
